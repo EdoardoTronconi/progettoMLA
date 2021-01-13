@@ -4,3 +4,4 @@ SavedVariables/datasets.txt
 SavedVariables/images_princComp.txt
 SavedVariables/trainImagesReduced.txt
 SavedVariables/pca.txt
+*.zip
